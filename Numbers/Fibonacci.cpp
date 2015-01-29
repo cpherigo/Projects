@@ -1,3 +1,12 @@
+/*******************************************************/
+/*                                                     */
+/*  Fibonnacci Number Generator                        */
+/*  Part of the 100 Projects on GitHub: Karan/Projects */
+/*  Written by Cathy Pherigo                           */
+/*  Created 1/28/15                                    */
+/*                                                     */
+/*******************************************************/
+
 #include <iostream>
 using namespace std;
 
